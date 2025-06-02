@@ -1,0 +1,8 @@
+{
+    "Console.log 🚀": {
+        "prefix": "log",
+		"scope": "javascript,typescript,jsx,typescriptreact",
+        "body": "console.log('🚀🚀🚀🚀🚀 $1', $2);",
+        "description": "Console Log2"
+    }
+}
